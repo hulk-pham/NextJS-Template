@@ -1,4 +1,4 @@
-import { TranslationJsonType } from 'declares/@types/i18n-resources'
+import { TranslationJsonType } from '../type'
 
 const fr: TranslationJsonType = {
   translation: {
