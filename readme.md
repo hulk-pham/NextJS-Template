@@ -2,7 +2,7 @@
 
 
 ## Demo page
-![alt text](https://github.com/hulk-pham/NextJS-Template/tree/main/.docs/demo.png "Demo")
+![alt text](./.docs/demo.png "Demo")
 
 [Link](https://next-js-template-cyan.vercel.app/)
 
