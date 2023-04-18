@@ -11,6 +11,7 @@
 - Husky, Prettier
 - ESLint, Commitlint
 - i18n, axios
+- React hook form
 
 ## Demo page
 ![alt text](./.docs/demo.png "Demo")
