@@ -4,4 +4,6 @@ import type { RootState, StoreDispatch } from './index'
 
 export const useStoreDispatch: () => StoreDispatch = useDispatch
 export const useStoreSelector: TypedUseSelectorHook<RootState> = useSelector
-export const useMountData = (data: any, error: any, setter: any) => {}
+export const useMountData = (data: any, error: any, setter: any) => {
+  return { data, error, setter }
+}
