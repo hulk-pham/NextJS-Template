@@ -50,7 +50,7 @@ const Error401 = () => {
         </BoxWrapper>
         <Img height='487' alt='error-illustration' src='/images/pages/401.png' />
         <Link passHref href='/'>
-          <Button component='a' variant='contained' sx={{ px: 5.5 }}>
+          <Button component='span' variant='contained' sx={{ px: 5.5 }}>
             Back to Home
           </Button>
         </Link>

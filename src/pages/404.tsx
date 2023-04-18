@@ -59,7 +59,7 @@ const Error404 = () => {
         </BoxWrapper>
         <Img height='487' alt='error-illustration' src='/images/pages/404.png' />
         <Link passHref href='/'>
-          <Button component='a' variant='contained' sx={{ px: 5.5 }}>
+          <Button component='span' variant='contained' sx={{ px: 5.5 }}>
             Back to Home
           </Button>
         </Link>

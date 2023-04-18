@@ -40,6 +40,10 @@ const GlobalStyles = (theme: Theme) => {
         position: 'fixed',
         backgroundColor: theme.palette.primary.main
       }
+    },
+
+    a: {
+      textDecoration: 'none'
     }
   }
 }
