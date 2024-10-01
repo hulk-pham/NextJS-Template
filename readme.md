@@ -16,7 +16,7 @@
 ## Demo page
 ![alt text](./.docs/demo.png "Demo")
 
-[Link](https://next-js-template-cyan.vercel.app/)
+[Demo](https://next-js-template-ebon-one.vercel.app/)
 
 
 ## Available Scripts
